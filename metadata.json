@@ -1,0 +1,7 @@
+{
+  "name": "Scan Cure Ingredient Scanner",
+  "description": "A web application to scan product ingredient lists and check their safety for pregnancy using AI. Users can upload an image of an ingredient list, and the app will provide a safety analysis with explanations and suggest safer alternatives.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
